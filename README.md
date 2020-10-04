@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there and welcome! 👋
 
-<!--
-**davidatb/davidatb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm hacking enthusiast, web developer and passionate about tech. Who found in programming a way to solve everyday problems.
+You can talk me in english or spanish my native language 
+
+- 💼 I’m currently looking for a new job oportunity
+- 🖥 I’m currently learning about ethical hacking
+- 💻 I’m looking to collaborate on web projects
+
+- ⚡ My interests include:
+- 🗄 Databases:
+- 🐍 Python:
+- 🌐 Ethical Hacking:
+- 📊 Data science:
+
+
