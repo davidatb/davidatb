@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidatb" alt="davidatb" /> </p>
 
-- 🔭 I’m currently working on [My personal website](https://davidatb.com/)
+- 💼 I’m currently working on [My personal website](https://davidatb.com/)
 
-- 🌱 I’m currently learning **about ethical hacking**
+- 🖥 I’m currently learning **about ethical hacking**
 
-- 👯 I’m looking **for a new job opportunity**
+- 🔎 I’m looking **for a new job opportunity**
 
 - 👨‍💻 All of my projects are available at [https://davidatb.com/](https://davidatb.com/)
 
@@ -20,7 +20,7 @@
 <a href="https://codepen.io/davidatb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="davidatb" height="30" width="40" /></a>
 <a href="https://twitter.com/@davidatb_com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidatb_com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidatb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davidatb" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/davidatb-366768844037999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/davidatb-366768844037999/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/pages/category/science--technology---engineering/davidatb-366768844037999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pages/category/science--technology---engineering/davidatb-366768844037999/" height="30" width="40" /></a>
 <a href="https://instagram.com/davidatb_com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davidatb_com" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctklxu48vxjd72favtrqqnq?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uctklxu48vxjd72favtrqqnq?view_as=subscriber" height="30" width="40" /></a>
 </p>
